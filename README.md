@@ -5,7 +5,7 @@
 
 This repository contains an analysis of Adidas's sales performance, focusing on the strategies and factors that contributed to its revenue surge. The analysis includes key insights, a conclusive dashboard, and recommendations for Adidas to sustain its growth and market dominance.
 
-![Tableau dashboard](Dashboard%201%20(1).png)
+![Tableau dashboard](https://github.com/aadiG17/task-day2/blob/main/Dashboard.png)
 
 
 ## Key Insights
